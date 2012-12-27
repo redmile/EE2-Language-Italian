@@ -1,4 +1,4 @@
 EE2-Language-Italian
 ====================
 
-expressionengine2 italian translation - traduzione italiana expressionengine2
+ExpressionEngine 2 Italian translation - Traduzione Italiana per ExpressionEngine 2
