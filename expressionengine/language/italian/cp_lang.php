@@ -35,7 +35,7 @@ $lang = array(
 	'nav_sync_templates'			=> 'Sincronizza Templates',
 	'nav_sync_templates_short_desc'		=> 'Sincronizza templates con i file associati.',
 	'nav_global_variables'			=> 'Variabili Globali',
-	'nav_global_variables_short_desc'	=> 'Crea, modifica, e cancella Variabili Globali definite dall'Utente',
+	'nav_global_variables_short_desc'	=> 'Crea, modifica, e cancella Variabili Globali definite dall\'Utente',
 	'nav_template_manager'			=> 'Gestore Template',
 	'nav_template_manager_short_desc'	=> 'Crea, modifica, cancella, e gestisci i Templates e i Gruppi di Template',
 	'nav_template_preferences'		=> 'Preferenze Template',
@@ -191,34 +191,34 @@ $lang = array(
 //----------------------------
 
 'session_expiring' =>
-'Your session has expired. Please log back in to avoid data loss.',
+'La Tua sessione è scaduta. Per favore rientra per evitare perdita di dati.',
 
 'loading' =>
-'Loading',
+'Caricamento',
 
 'show_hide' =>
-'Show/Hide All',
+'Mostra/Nascondi Tutto',
 
 'new_tab' =>
-'New Tab',
+'Nuova Tab',
 
 'new_version_available' =>
-'ExpressionEngine Version %s is now available',
+'La Version %s di ExpressionEngine è ora disponibile',
 
 'consult_user_guide' =>
-'Consult User Guide',
+'Consulta la Guida Utente',
 
 'powered_by' =>
 'Powered By',
 
 'control_panel' => 
-'Control Panel',
+'Pannello di Controllo',
 
 'main_menu' => 
 'CP Home',
 
 'username' => 
-'Username',
+'Nome Utente',
 
 'password' => 
 'Password',
@@ -227,37 +227,37 @@ $lang = array(
 'You are now logged back in!',
 
 'my_account' => 
-'My Account',
+'Mio Profilo',
 
 'myaccount' => 
-'My Account',
+'Mio Profilo',
 
 'user_account' => 
-'Member Account',
+'Profilo Membro',
 
 'user_guide' => 
-'User Guide',
+'Guida Utente',
 
 'logout_confirm' =>
-'Are you sure you want to log-out?',
+'Sei sicuro di volerti disconnettere?',
 
 'logout' => 
-'Log-out',
+'Disconnetti',
 
 'session_timeout' => 
 'Your session is about to expire due to inactivity',
 
 'login' => 
-'Log-in',
+'Connettiti',
 
 'copyright' => 
 'Copyright',
 
 'rights_reserved' => 
-'All Rights Reserved',
+'Tutti i diritti riservati',
 
 'page_rendered' => 
-'Script executed in %x seconds',
+'Script eseguito in %x seconds',
 
 'queries_executed' => 
 '%x SQL queries used',
@@ -266,7 +266,7 @@ $lang = array(
 'Build Date:',
 
 'forgot_password' =>
-'Forgot your password?',
+'Hai dimenticato la Password?',
 
 'e_no_css' => 
 'The requested CSS file could not be opened.',
@@ -275,7 +275,7 @@ $lang = array(
 'Unauthorized',
 
 'unauthorized_access' => 
-'You are not authorized to access this page',
+'Non sei autorizzato ad accedere a questa pagina',
 
 'be_careful' =>
 'BE CAREFUL!',
@@ -287,13 +287,13 @@ $lang = array(
 'A CAPTCHA is an image containing a security code that users have to submit.  Please consult the user guide for more info.',
 
 'back' =>
-'Back',
+'Indietro',
 
 'no' =>
 'No',
 
 'yes' =>
-'Yes',
+'Si',
 
 'all' =>
 'All',
@@ -345,34 +345,34 @@ $lang = array(
 //----------------------------
 
 'submit' => 
-'Submit',
+'Invia',
 
 'preview' => 
-'Preview',
+'Anteprima',
 
 'update' => 
-'Update',
+'Aggiorna',
 
 'edit' => 
-'Edit',
+'Modifica',
 
 'delete' => 
-'Delete',
+'Cancella',
 
 'save_changes' => 
-'Save changes',
+'Salva Modifiche',
 
 'save' =>
-'Save',
+'Salva',
 
 'sync' =>
-'Synchronize',
+'Sincronizza',
 
 'cancel' =>
-'Cancel',
+'Cancella',
 
 'done' =>
-'Done',
+'Fatto',
 
 //----------------------------
 // Log
@@ -409,10 +409,10 @@ $lang = array(
 // Common
 //----------------------------
 
-'create' 						=> 	'Create',
-'create_and_edit'				=> 	'Create and Edit',
+'create' 						=> 	'Crea',
+'create_and_edit'				=> 	'Crea e Modifica',
 'modify' 						=>	'Modify',
-'or_delete' 					=>	'or delete',
+'or_delete' 					=>	'o cancella',
 'view' 							=>	'View',
 'switch'						=>	'Switch',
 
@@ -423,18 +423,18 @@ $lang = array(
 'channel' 						=>	'Channel',
 'site' 							=>	'Site',
 
-'most_recent_entry' 			=>	'Most Recent Entry',
-'most_recent_comment' 			=>	'Most Recent Comment',
+'most_recent_entry' 			=>	'Articolo pià Recente',
+'most_recent_comment' 			=>	'Commenti più Recenti',
 
-'recent_entries' 				=>	'Recent Entries',
-'recent_comments'	 			=>	'Recent Comments',
-'user_guide' 					=>	'User Guide',
+'recent_entries' 				=>	'Articoli Recenti',
+'recent_comments'	 			=>	'Commenti Recenti',
+'user_guide' 					=>	'Guida Utente',
 'ee_wiki'	 					=>	'EE Wiki',
 
 'status'						=> 'Status',
-'select_all'					=> 'Select All',
+'select_all'					=> 'Seleziona Tutto',
 
-'name'							=> 'Name',
+'name'							=> 'Nome',
 
 //----------------------------
 // Sites and Channels

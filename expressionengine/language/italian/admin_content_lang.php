@@ -3,7 +3,7 @@
 $lang = array(
 
 'reserved_word' =>
-'The field name you have chosen is a reserved word and cannot be used.  Please see the user guide for more information.',
+'Il nome campo che hai scelto è una parola riservata e non può essere usata.  Per favore consulta la guida per maggiori informazioni.',
 
 'list_edit_warning' =>
 'If you have unsaved changes in this page they will be lost when you are transfered to the formatting editor.',
@@ -24,10 +24,10 @@ $lang = array(
 'limit',
 
 'orderby_title' =>
-'Sort by Title',
+'Ordina per Titolo',
 
 'orderby_date' =>
-'Sort by Date',
+'Ordina per Data',
 
 'sort_desc' =>
 'Descending Order',
